@@ -1,2 +1,2 @@
-# exercise8-update-2
+# exercise8
 ◕ ◞ ◕ This project was made using https://netnet.studio
